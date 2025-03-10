@@ -75,3 +75,4 @@ function novoSorteio() {
     document.querySelector('.button-new-draw').style.display = 'none';
     document.querySelector('.button-draw:not(.button-new-draw)').style.display = 'inline-block';
 }
+//criado novo projeto a partir do fork
